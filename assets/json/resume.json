@@ -23,6 +23,58 @@
             }
         ]
     },
+    "work": [
+      {
+          "name": "Alibaba Group",
+          "position": "Software Engineer Intern",
+          "startDate": "2024-05",
+          "endDate": "2024-08",
+          "location": "Guangzhou, CN",
+          "summary": "Worked on UNet, a Chromium-based network stack, and implemented features to improve performance and extensibility.",
+          "highlights": [
+              "Designed a network diagnostic tool achieving high accuracy across devices.",
+              "Implemented an interface for the Apollo Player to use UNet for network requests.",
+              "Increased TCP connection success rate with a smart IP address selection mechanism."
+          ]
+      },
+      {
+          "name": "Tuyoo Games",
+          "position": "Backend Developer Intern",
+          "startDate": "2024-03",
+          "endDate": "2024-05",
+          "location": "Guangzhou, CN",
+          "summary": "Optimized database schema and automated server processes for better performance.",
+          "highlights": [
+              "Performed schema optimization of a Redis database.",
+              "Developed a game server management tool enabling live updates.",
+              "Built a proxy login tool to transfer user data between different production environments."
+          ]
+      },
+      {
+          "name": "AIRS Lab",
+          "position": "Research Engineer",
+          "startDate": "2022-01",
+          "endDate": "2023-05",
+          "location": "Shenzhen, CN",
+          "summary": "Developed an optimized compiler for the Oat programming language.",
+          "highlights": [
+              "Led the FedCampus project team and created an Android demo to analyze user data with advanced privacy-preserving techniques.",
+              "Implemented incentive mechanisms for federated learning, securing a patent and publications in IEEE ICDCS and IEEE TMC."
+          ]
+      },
+      {
+          "name": "Apartsa",
+          "position": "Software Engineer Intern",
+          "startDate": "2021-05",
+          "endDate": "2021-10",
+          "location": "Shenzhen, CN",
+          "summary": "Developed a front-end application and improved API performance.",
+          "highlights": [
+              "Built a scalable Wechat app for over 2000 users.",
+              "Optimized routing API to reduce page-switching time by 32%."
+          ]
+      }
+  ],
     "education": [
         {
             "institution": "Rice University",
@@ -51,58 +103,7 @@
             "gpa": "4.0/4.0"
         }
     ],
-    "work": [
-        {
-            "name": "Alibaba Group",
-            "position": "Software Engineer Intern",
-            "startDate": "2024-05",
-            "endDate": "2024-08",
-            "location": "Guangzhou, CN",
-            "summary": "Worked on UNet, a Chromium-based network stack, and implemented features to improve performance and extensibility.",
-            "highlights": [
-                "Designed a network diagnostic tool achieving high accuracy across devices.",
-                "Implemented an interface for the Apollo Player to use UNet for network requests.",
-                "Increased TCP connection success rate with a smart IP address selection mechanism.",
-            ]
-        },
-        {
-            "name": "Tuyoo Games",
-            "position": "Backend Developer Intern",
-            "startDate": "2024-03",
-            "endDate": "2024-05",
-            "location": "Guangzhou, CN",
-            "summary": "Optimized database schema and automated server processes for better performance.",
-            "highlights": [
-                "Performed schema optimization of a Redis database.",
-                "Developed a game server management tool enabling live updates.",
-                "Built a proxy login tool to transfer user data between different production environments."
-            ]
-        },
-        {
-            "name": "AIRS Lab",
-            "position": "Research Engineer",
-            "startDate": "2022-01",
-            "endDate": "2023-05",
-            "location": "Shenzhen, CN",
-            "summary": "Developed an optimized compiler for the Oat programming language.",
-            "highlights": [
-                "Led the FedCampus project team and created an Android demo to analyze user data with advanced privacy-preserving techniques.",
-                "Implemented incentive mechanisms for federated learning, securing a patent and publications in IEEE ICDCS and IEEE TMC."
-            ]
-        },
-        {
-            "name": "Apartsa",
-            "position": "Software Engineer Intern",
-            "startDate": "2021-05",
-            "endDate": "2021-10",
-            "location": "Shenzhen, CN",
-            "summary": "Developed a front-end application and improved API performance.",
-            "highlights": [
-                "Built a scalable Wechat app for over 2000 users.",
-                "Optimized routing API to reduce page-switching time by 32%."
-            ]
-        }
-    ],
+
     "projects": [
         {
             "name": "Rookie DB",
