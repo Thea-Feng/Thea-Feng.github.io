@@ -1,157 +1,189 @@
 {
-    "basics": {
-        "name": "Yutong Feng (Thea Feng)",
-        "label": "Software Engineer",
-        "email": "thea.fyt@gmail.com",
-        "url": "https://github.com/Thea-Feng",
-        "summary": "A Master of Computer Science student at Rice University with extensive programming and development experience.",
-        "location": {
-            "city": "Houston",
-            "region": "TX",
-            "countryCode": "US"
-        },
-        "profiles": [
-            {
-                "network": "LinkedIn",
-                "username": "thea-feng",
-                "url": "https://www.linkedin.com/in/thea-feng/"
-            },
-            {
-                "network": "GitHub",
-                "username": "Thea-Feng",
-                "url": "https://github.com/Thea-Feng"
-            }
+  "basics": {
+    "name": "Yutong Feng (Thea Feng)",
+    "label": "Software Engineer",
+    "image": "",
+    "email": "thea.fyt@gmail.com",
+    "url": "https://thea-feng.github.io/",
+    "summary": "A computer science graduate with 8+ years of experience in programming",
+    "location": {
+      "city": "Houston",
+      "countryCode": "US",
+      "region": "Texas"
+    },
+    "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "thea-feng",
+          "url": "https://www.linkedin.com/in/thea-feng/"
+      },
+      {
+          "network": "GitHub",
+          "username": "Thea-Feng",
+          "url": "https://github.com/Thea-Feng"
+      }
+    ]
+  },
+  "work": [
+    {
+        "name": "Alibaba Group",
+        "position": "Software Engineer Intern",
+        "startDate": "2024-05",
+        "endDate": "2024-08",
+        "summary": "Worked on UNet, a Chromium-based network stack, and implemented features to improve performance and extensibility.",
+        "highlights": [
+            "Designed a network diagnostic tool achieving high accuracy across devices.",
+            "Implemented an interface for the Apollo Player to use UNet for network requests.",
+            "Increased TCP connection success rate with a smart IP address selection mechanism."
         ]
     },
-    "work": [
-      {
-          "name": "Alibaba Group",
-          "position": "Software Engineer Intern",
-          "startDate": "2024-05",
-          "endDate": "2024-08",
-          "location": "Guangzhou, CN",
-          "summary": "Worked on UNet, a Chromium-based network stack, and implemented features to improve performance and extensibility.",
-          "highlights": [
-              "Designed a network diagnostic tool achieving high accuracy across devices.",
-              "Implemented an interface for the Apollo Player to use UNet for network requests.",
-              "Increased TCP connection success rate with a smart IP address selection mechanism."
-          ]
-      },
-      {
-          "name": "Tuyoo Games",
-          "position": "Backend Developer Intern",
-          "startDate": "2024-03",
-          "endDate": "2024-05",
-          "location": "Guangzhou, CN",
-          "summary": "Optimized database schema and automated server processes for better performance.",
-          "highlights": [
-              "Performed schema optimization of a Redis database.",
-              "Developed a game server management tool enabling live updates.",
-              "Built a proxy login tool to transfer user data between different production environments."
-          ]
-      },
-      {
-          "name": "AIRS Lab",
-          "position": "Research Engineer",
-          "startDate": "2022-01",
-          "endDate": "2023-05",
-          "location": "Shenzhen, CN",
-          "summary": "Developed an optimized compiler for the Oat programming language.",
-          "highlights": [
-              "Led the FedCampus project team and created an Android demo to analyze user data with advanced privacy-preserving techniques.",
-              "Implemented incentive mechanisms for federated learning, securing a patent and publications in IEEE ICDCS and IEEE TMC."
-          ]
-      },
-      {
-          "name": "Apartsa",
-          "position": "Software Engineer Intern",
-          "startDate": "2021-05",
-          "endDate": "2021-10",
-          "location": "Shenzhen, CN",
-          "summary": "Developed a front-end application and improved API performance.",
-          "highlights": [
-              "Built a scalable Wechat app for over 2000 users.",
-              "Optimized routing API to reduce page-switching time by 32%."
-          ]
-      }
+    {
+        "name": "Tuyoo Games",
+        "position": "Backend Developer Intern",
+        "startDate": "2024-03",
+        "endDate": "2024-05",
+        "summary": "Optimized database schema and automated server processes for better performance.",
+        "highlights": [
+            "Performed schema optimization of a Redis database.",
+            "Developed a game server management tool enabling live updates.",
+            "Built a proxy login tool to transfer user data between different production environments."
+        ]
+    },
+    {
+        "name": "AIRS Lab",
+        "position": "Research Engineer",
+        "startDate": "2022-01",
+        "endDate": "2023-05",
+        "summary": "Developed an optimized compiler for the Oat programming language.",
+        "highlights": [
+            "Led the FedCampus project team and created an Android demo to analyze user data with advanced privacy-preserving techniques.",
+            "Implemented incentive mechanisms for federated learning, securing a patent and publications in IEEE ICDCS and IEEE TMC."
+        ]
+    },
+    {
+        "name": "Apartsa",
+        "position": "Software Engineer Intern",
+        "startDate": "2021-05",
+        "endDate": "2021-10",
+        "location": "Shenzhen, CN",
+        "summary": "Developed a front-end application and improved API performance.",
+        "highlights": [
+            "Built a scalable Wechat app for over 2000 users.",
+            "Optimized routing API to reduce page-switching time by 32%."
+        ]
+    }
+],
+  "volunteer": [
+    {
+      "organization": "Shimmer",
+      "location": "Guangzhou, China",
+      "summary": "To assist young people cultivating healthy personality and improving comprehensive accomplishment",
+      "highlights": ["Awarded 'Outstanding Volunteer' in 2021"]
+    }
   ],
-    "education": [
-        {
-            "institution": "Rice University",
-            "area": "Computer Science",
-            "studyType": "Master",
-            "startDate": "2024-08",
-            "endDate": "2025-12",
-            "location": "Houston, TX"
-        },
-        {
-            "institution": "The Chinese University of Hong Kong, Shenzhen",
-            "area": "Computer Science",
-            "studyType": "Bachelor",
-            "startDate": "2020-09",
-            "endDate": "2024-05",
-            "location": "Shenzhen, CN",
-            "gpa": "3.9/4.0"
-        },
-        {
-            "institution": "University of California, Berkeley",
-            "area": "Electrical Engineering and Computer Science (EECS)",
-            "studyType": "Exchange Program",
-            "startDate": "2023-01",
-            "endDate": "2023-05",
-            "location": "Berkeley, CA",
-            "gpa": "4.0/4.0"
-        }
-    ],
-
-    "projects": [
-        {
-            "name": "Rookie DB",
-            "description": "A lightweight relational database management system in Java.",
-            "highlights": [
-                "Implemented a buffer pool manager to improve query latency by 20%.",
-                "Developed write-ahead logging (WAL) to ensure crash recovery with 0.001% failure rate.",
-                "Enhanced concurrency with a multi-granularity locking protocol."
-            ]
-        },
-        {
-            "name": "CUDA-Optimized File System",
-            "description": "A GPU-accelerated Linux-like file system supporting high-volume data processing.",
-            "highlights": [
-                "Reduced page table memory footprint by 50%.",
-                "Improved page swap efficiency by 95% using optimized structures."
-            ]
-        }
-    ],
-    "skills": [
-        {
-            "name": "Programming",
-            "keywords": [
-                "C", "C++", "Python", "Java", "JavaScript", "TypeScript", "Go", "SQL", "CUDA"
-            ]
-        },
-        {
-            "name": "Web Development & Databases",
-            "keywords": [
-                "HTML", "CSS", "React", "MySQL", "Redis", "MongoDB", "PostgreSQL", "Node.js", "Django", "Flask", "Spring Boot"
-            ]
-        },
-        {
-            "name": "Cloud & DevOps",
-            "keywords": [
-                "AWS", "S3 API", "Nginx", "Docker", "Kubernetes", "GitHub"
-            ]
-        }
-    ],
-    "languages": [
-        {
-            "language": "English",
-            "fluency": "Fluent"
-        },
-        {
-            "language": "Mandarin",
-            "fluency": "Native"
-        }
-    ]
+  "education": [
+    {
+        "institution": "Rice University",
+        "area": "Computer Science",
+        "studyType": "Master",
+        "startDate": "2024-08",
+        "endDate": "2025-12",
+        "location": "Houston, TX"
+    },
+    {
+        "institution": "The Chinese University of Hong Kong, Shenzhen",
+        "area": "Computer Science and Enignnering",
+        "studyType": "Bachelor",
+        "startDate": "2020-09",
+        "endDate": "2024-05",
+        "location": "Shenzhen, CN",
+        "gpa": "3.9/4.0"
+    },
+    {
+        "institution": "University of California, Berkeley",
+        "area": "Electrical Engineering and Computer Science (EECS)",
+        "studyType": "Exchange Program",
+        "startDate": "2023-01",
+        "endDate": "2023-05",
+        "location": "Berkeley, CA",
+        "gpa": "4.0/4.0"
+    }
+],
+  "awards": [
+    {
+      "title": "National Scholarship",
+      "date": "2023-09",
+      "awarder": "The Ministry of Education of the People's Republic of China",
+      "summary": "A prestigious awardto recognize and reward outstanding students at universities and colleges across China. It aims to promote academic excellence, innovation, and leadership among students in various disciplines."
+    }
+  ],
+  "certificates": [
+  ],
+  "publications": [
+    {
+      "name": "Incentive Mechanism Design for Unbiased Federated Learning with Randomized Client Participation",
+      "publisher": "IEEE Computer Society",
+      "releaseDate": "2023",
+      "url": "https://doi.ieeecomputersociety.org/10.1109/ICDCS57875.2023.00027",
+      "summary": "Training;Analytical models;Federated learning;Prototypes;Pricing;Predictive models;Data models"
+    },
+    {
+      "name": "Optimal Mechanism Design for Heterogeneous Client Sampling in Federated Learning",
+      "publisher": "IEEE Computer Society",
+      "releaseDate": "2024",
+      "url": "https://ieeexplore.ieee.org/document/10476711",
+      "summary": "Costs;Convergence;Training;Servers;Federated learning;Performance evaluation;Optimization;Client sampling;federated learning;mechanism design"
+    }
+    
+  ],
+  "skills": [
+    {
+        "name": "Programming",
+        "keywords": [
+            "C", "C++", "Python", "Java", "JavaScript", "TypeScript", "Go", "SQL", "CUDA"
+        ]
+    },
+    {
+        "name": "Web Development & Databases",
+        "keywords": [
+            "HTML", "CSS", "React", "MySQL", "Redis", "MongoDB", "PostgreSQL", "Node.js", "Django", "Flask", "Spring Boot"
+        ]
+    },
+    {
+        "name": "Cloud & DevOps",
+        "keywords": [
+            "AWS", "S3 API", "Nginx", "Docker", "Kubernetes", "GitHub"
+        ]
+    }
+],
+"languages": [
+    {
+        "language": "English",
+        "fluency": "Fluent"
+    },
+    {
+        "language": "Mandarin",
+        "fluency": "Native"
+    }
+],
+  
+"projects": [
+  {
+      "name": "Rookie DB",
+      "description": "A lightweight relational database management system in Java.",
+      "highlights": [
+          "Implemented a buffer pool manager to improve query latency by 20%.",
+          "Developed write-ahead logging (WAL) to ensure crash recovery with 0.001% failure rate.",
+          "Enhanced concurrency with a multi-granularity locking protocol."
+      ]
+  },
+  {
+      "name": "CUDA-Optimized File System",
+      "description": "A GPU-accelerated Linux-like file system supporting high-volume data processing.",
+      "highlights": [
+          "Reduced page table memory footprint by 50%.",
+          "Improved page swap efficiency by 95% using optimized structures."
+      ]
+  }
+]
 }
-
