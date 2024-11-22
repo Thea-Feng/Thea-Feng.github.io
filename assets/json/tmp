@@ -1,0 +1,78 @@
+{
+    "basics": {
+        "name": "Yutong Feng (Thea Feng)",
+        "label": "Software Engineer",
+        "email": "thea.fyt@gmail.com",
+        "url": "https://github.com/Thea-Feng",
+        "summary": "A Master of Computer Science student at Rice University with extensive programming and development experience.",
+        "location": {
+            "city": "Houston",
+            "region": "TX",
+            "countryCode": "US"
+        },
+        "profiles": [
+            {
+                "network": "LinkedIn",
+                "username": "thea-feng",
+                "url": "https://www.linkedin.com/in/thea-feng/"
+            },
+            {
+                "network": "GitHub",
+                "username": "Thea-Feng",
+                "url": "https://github.com/Thea-Feng"
+            }
+        ]
+    },
+
+
+
+    "projects": [
+        {
+            "name": "Rookie DB",
+            "description": "A lightweight relational database management system in Java.",
+            "highlights": [
+                "Implemented a buffer pool manager to improve query latency by 20%.",
+                "Developed write-ahead logging (WAL) to ensure crash recovery with 0.001% failure rate.",
+                "Enhanced concurrency with a multi-granularity locking protocol."
+            ]
+        },
+        {
+            "name": "CUDA-Optimized File System",
+            "description": "A GPU-accelerated Linux-like file system supporting high-volume data processing.",
+            "highlights": [
+                "Reduced page table memory footprint by 50%.",
+                "Improved page swap efficiency by 95% using optimized structures."
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "name": "Programming",
+            "keywords": [
+                "C", "C++", "Python", "Java", "JavaScript", "TypeScript", "Go", "SQL", "CUDA"
+            ]
+        },
+        {
+            "name": "Web Development & Databases",
+            "keywords": [
+                "HTML", "CSS", "React", "MySQL", "Redis", "MongoDB", "PostgreSQL", "Node.js", "Django", "Flask", "Spring Boot"
+            ]
+        },
+        {
+            "name": "Cloud & DevOps",
+            "keywords": [
+                "AWS", "S3 API", "Nginx", "Docker", "Kubernetes", "GitHub"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Fluent"
+        },
+        {
+            "language": "Mandarin",
+            "fluency": "Native"
+        }
+    ]
+}
